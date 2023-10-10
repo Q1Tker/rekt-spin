@@ -69,7 +69,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>REKT SPIN WHEEL</title>
+				<title>$REKT SpinTheWheel</title>
 			</Head>
 			<header className='flex w-full bg-[#222222] py-2 px-2 w-100'>
 				<div className='ml-2'>
